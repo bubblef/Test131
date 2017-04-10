@@ -1,0 +1,16 @@
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/Test131.dll
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/Test131.dll.mdb
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.abstractions.dll
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.assert.dll
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.core.dll
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.execution.desktop.dll
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.abstractions.xml
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.assert.pdb
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.assert.xml
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.core.pdb
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.core.xml
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.execution.desktop.pdb
+/Users/katya/RiderProjects/Test131/Test131/bin/Debug/xunit.execution.desktop.xml
+/Users/katya/RiderProjects/Test131/Test131/obj/Debug/Test131.csprojResolveAssemblyReference.cache
+/Users/katya/RiderProjects/Test131/Test131/obj/Debug/Test131.dll
+/Users/katya/RiderProjects/Test131/Test131/obj/Debug/Test131.dll.mdb
